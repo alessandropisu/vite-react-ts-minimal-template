@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Hello Vite + React!</p>
+        <p>Vite + TS + React + Airbnb ⚡️</p>
         <p>
           <button type="button" onClick={() => setCount((prevCount) => prevCount + 1)}>
             count is: {count}
@@ -30,6 +30,19 @@ function App() {
             rel="noopener noreferrer"
           >
             Vite Docs
+          </a>
+          {' | '}
+          <a className="App-link" href="https://github.com/airbnb/javascript" target="_blank" rel="noopener noreferrer">
+            Airbnb JS Style Guide
+          </a>
+          {' | '}
+          <a
+            className="App-link"
+            href="https://github.com/airbnb/javascript/tree/master/react"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Airbnb React Style Guide
           </a>
         </p>
       </header>
