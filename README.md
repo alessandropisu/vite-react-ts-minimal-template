@@ -1,18 +1,22 @@
-# Vite + React + Typescript + Airbnb ⚡️
+# Vite + React + Typescript + Airbnb + Husky = 🔥
 
-Up-to date _headless UI_ Vite React + TypeScript template with pre-configured ESLint (with Airbnb JS/React rules), Prettier and Git hooks by Husky out of the box!
+Up-to date _headless UI_ Vite React + TypeScript template with pre-configured ESLint (with Airbnb JS/React rules), Prettier and Git hooks by Husky out of the box 📦
 
 ## Features
 
-- All latest Vite features
-- Pre-configured and extensible ESLint configuration without wrong and unused rules for old React versions
-- Pre-configured and extensible Prettier configuration
-- Git hooks for code formatting and linting pre-commit thanks to Husky
+- 📦 All latest Vite features
+- 🔎 Pre-configured and extensible ESLint configuration without wrong and unused rules for old React versions
+- 💅 Pre-configured and extensible Prettier configuration
+- 🔬 Git hooks for code formatting and linting pre-commit thanks to Husky
 
 ## Usage
 
 ```bash
-degit alessandropisu/vite-react-ts-template my-app
+npx degit alessandropisu/vite-react-ts-template my-app
+
+cd my-app
+
+yarn dev
 ```
 
 ## Available commands
