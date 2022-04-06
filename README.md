@@ -22,6 +22,11 @@ npx degit alessandropisu/vite-react-ts-template my-app
 
 cd my-app
 
+# Required if you want a repository and work with Git hooks
+git init
+
+yarn install
+
 yarn dev
 ```
 
