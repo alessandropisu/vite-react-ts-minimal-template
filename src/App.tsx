@@ -9,20 +9,13 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Vite + TS + React + Airbnb ⚡️</p>
+        <p>Vite + React + TypeScript + Airbnb + Husky = 🔥</p>
         <p>
-          <button type="button" onClick={() => setCount((prevCount) => prevCount + 1)}>
+          <button className="rainbow-button" type="button" onClick={() => setCount((prevCount) => prevCount + 1)}>
             count is: {count}
           </button>
         </p>
         <p>
-          Edit <code>App.tsx</code> and save to test HMR updates.
-        </p>
-        <p>
-          <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
-            Learn React
-          </a>
-          {' | '}
           <a
             className="App-link"
             href="https://vitejs.dev/guide/features.html"
@@ -30,6 +23,10 @@ function App() {
             rel="noopener noreferrer"
           >
             Vite Docs
+          </a>
+          {' | '}
+          <a className="App-link" href="https://github.com/typicode/husky" target="_blank" rel="noopener noreferrer">
+            Husky Docs
           </a>
           {' | '}
           <a className="App-link" href="https://github.com/airbnb/javascript" target="_blank" rel="noopener noreferrer">
@@ -43,6 +40,15 @@ function App() {
             rel="noopener noreferrer"
           >
             Airbnb React Style Guide
+          </a>
+          {' | '}
+          <a
+            className="App-link"
+            href="https://github.com/alessandropisu/vite-react-ts-template"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Template repository
           </a>
         </p>
       </header>
