@@ -8,6 +8,8 @@ A modern headless UI Vite + React + TypeScript template with pre-configured ESLi
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
+![Screenshot](https://i.ibb.co/Trm88qJ/screenshot.png)
+
 ## Features
 
 - 🦾 Up to date libraries version and their features
