@@ -20,7 +20,7 @@ A modern headless UI Vite + React + TypeScript template with pre-configured ESLi
 ## Usage
 
 ```bash
-npx degit alessandropisu/vite-react-ts-template my-app
+npx degit alessandropisu/vite-react-ts-minimal-template my-app
 
 cd my-app
 
