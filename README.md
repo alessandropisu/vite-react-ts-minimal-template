@@ -1,12 +1,12 @@
 # Vite + React + TypeScript + Airbnb + Husky = 🔥
 
-A modern headless UI Vite + React + TypeScript template with pre-configured ESLint (with Airbnb JS/React rules), Prettier and Git hooks by Husky out of the box 📦
+A modern minimal Vite + React + TypeScript template with pre-configured ESLint (with Airbnb JS/React rules), Prettier and Git hooks powered by Husky out of the box 📦
 
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![Screenshot](https://i.ibb.co/Trm88qJ/screenshot.png)
 
@@ -15,7 +15,7 @@ A modern headless UI Vite + React + TypeScript template with pre-configured ESLi
 - 🦾 Up to date libraries version and their features
 - 🔎 Pre-configured and extensible ESLint configuration without wrong and unused rules designed for old React versions
 - 💅 Pre-configured and extensible Prettier configuration
-- 🔬 Git hooks for code formatting and linting pre-commit thanks to Husky
+- 🔬 Git hooks for code formatting and linting pre-commit
 
 ## Usage
 
