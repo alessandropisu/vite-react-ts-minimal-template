@@ -44,7 +44,7 @@ function App() {
           {' | '}
           <a
             className="App-link"
-            href="https://github.com/alessandropisu/vite-react-ts-template"
+            href="https://github.com/alessandropisu/vite-react-ts-minimal-template"
             target="_blank"
             rel="noopener noreferrer"
           >
